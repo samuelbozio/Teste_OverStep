@@ -58,4 +58,9 @@ Obrigatoriedade nos campos:
 ![image](https://github.com/user-attachments/assets/b03540f5-d61f-45ee-b996-bc8a04561788)
 
 
+MySQL WorkBench:
+
+
+![image](https://github.com/user-attachments/assets/474debd3-b9ba-41b4-b9bc-db2825c655e9)
+
 
