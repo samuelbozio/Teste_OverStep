@@ -42,6 +42,9 @@ Se o npm install por acaso não baixar todos os pacotes, segue a linha de comand
 -> BOTÃO APAGAR: Para apagar, a fim de não complexar desnecessáriamente, basta apenas manter o CPF no seu campo, 
 e clicar no botão apagar.
 
+![image](https://github.com/user-attachments/assets/d9668584-9698-4f74-b999-3138ea3227e4)
+
+
 
 EXEMPLOS DE USO/TESTES
 
