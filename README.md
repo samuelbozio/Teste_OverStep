@@ -67,3 +67,7 @@ MySQL WorkBench:
 ![image](https://github.com/user-attachments/assets/474debd3-b9ba-41b4-b9bc-db2825c655e9)
 
 
+
+OBSERVAÇÃO:
+Os dados estão sendo validados tanto no front-end quanto na API.
+Na API validei apenas questões básicas.
