@@ -53,5 +53,9 @@ CPF/Telefone incorreto:
 ![image](https://github.com/user-attachments/assets/5446dc5b-465e-4aa5-8c5f-50cf697b6fb4)
 
 Obrigatoriedade nos campos: 
+
+
 ![image](https://github.com/user-attachments/assets/b03540f5-d61f-45ee-b996-bc8a04561788)
+
+
 
